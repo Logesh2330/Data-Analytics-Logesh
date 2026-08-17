@@ -4,7 +4,11 @@
 
 ## 🖥️ Dashboard Preview
 
-02_Excel/Project/freshmart/Dashboard/Freshmart_Dashboard.png
+# 🛒 FreshMart – Retail Sales Dashboard
+
+> **Interactive Retail Sales Analysis Dashboard using Microsoft Excel**
+
+![FreshMart Retail Sales Dashboard](Dashboard/Freshmart_Dashboard.png)
 ---
 
 ## 📌 Project Overview
