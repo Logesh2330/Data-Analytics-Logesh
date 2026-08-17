@@ -4,9 +4,7 @@
 
 ## 🖥️ Dashboard Preview
 
-## 🖥️ Dashboard Preview
-
-![FreshMart Retail Sales Dashboard](02_Excel/Project/freshmart/Dashboard/Freshmart_Dashboard.png)
+02_Excel/Project/freshmart/Dashboard/Freshmart_Dashboard.png
 ---
 
 ## 📌 Project Overview
