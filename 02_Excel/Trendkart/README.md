@@ -30,11 +30,6 @@ The main objective of this project is to transform TrendKart sales data into an 
 
 ---
 
-## 🖥️ Dashboard Preview
-
-![TrendKart Sales Dashboard](Dashboard.png)
-
----
 
 ## 🛠️ Technologies & Skills
 
