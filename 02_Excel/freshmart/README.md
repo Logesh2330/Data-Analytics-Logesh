@@ -29,13 +29,6 @@ The primary objective of this project is to transform FreshMart retail sales dat
 * Top Performing Stores
 
 ---
-
-## 🖥️ Dashboard Preview
-
-![FreshMart Retail Sales Dashboard](Dashboard.png)
-
----
-
 ## 🛠️ Tools & Techniques
 
 | Tool / Technique   | Purpose                             |
