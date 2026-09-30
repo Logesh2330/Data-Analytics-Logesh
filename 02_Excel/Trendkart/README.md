@@ -5,7 +5,7 @@
 ---
 ## 🖥️ Dashboard Preview
 
-02_Excel/Trendkart/Dashboard/Trendkart Dashboard.png
+![TrendKart Sales Dashboard](Dashboard/Trendkart%20Dashboard.png)
 
 ---
 ## 📌 Project Overview
