@@ -3,7 +3,13 @@
 > **Interactive Retail Sales Analysis Dashboard built using Microsoft Excel**
 
 ---
+## 📊 Dashboard Preview
 
+<p align="center">
+  <img src="Dashboard/Fresh_mart.png" alt="FreshMart Retail Sales Dashboard" width="100%">
+</p>
+
+---
 ## 📌 Project Overview
 
 **FreshMart Retail Sales Dashboard** is an interactive Excel-based data analytics project developed to analyze retail sales performance and generate meaningful business insights.
