@@ -1,7 +1,7 @@
 # 🛒 FreshMart – Retail Sales Dashboard
 
 > **Interactive Retail Sales Analysis Dashboard built using Microsoft Excel**
-
+> 
 ---
 ## 📊 Dashboard Preview
 
