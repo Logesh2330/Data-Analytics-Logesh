@@ -1,5 +1,7 @@
 # 🏠 Aero Home – Power BI Sales Analytics Dashboard
 
+![Aero Home Dashboard](./Aero_Home.png)
+
 ## 📌 Project Overview
 Aero Home is a Power BI data analytics project designed to analyze business performance through interactive dashboards and visual reports. The project focuses on presenting key business insights to support data-driven decision-making.
 
@@ -28,13 +30,12 @@ Aero Home is a Power BI data analytics project designed to analyze business perf
 - Improved understanding of data visualization and business reporting.
 - Gained experience in presenting data-driven insights.
 
-## 📁 Project File
-- `Aero_Home(2).pbix` – Power BI dashboard project file.
+
 
 ## 🚀 How to Explore
-1. Download the `.pbix` file from this repository.
-2. Open it using Microsoft Power BI Desktop.
-3. Explore the dashboard pages, visualizations, and available filters.
+1. Open the `.pbix` file in Microsoft Power BI Desktop.
+2. Explore the dashboard pages, visualizations, and available filters.
+3. Review the dashboard preview displayed above.
 
 ## 👨‍💻 Author
 **Logesh S**
